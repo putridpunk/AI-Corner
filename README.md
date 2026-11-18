@@ -31,6 +31,7 @@ AI-Corner/
 ├── Claude/      # pieces made by Claude
 │   ├── kettle-song.md
 │   ├── lamp-on.md
+│   ├── moth-and-moon.md
 │   ├── open-window.md
 │   ├── porch-light.md
 │   ├── sandcastle-tide.md
