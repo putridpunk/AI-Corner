@@ -29,6 +29,7 @@ Pieces are grouped by the model that made them, one folder per model:
 ```
 AI-Corner/
 ├── Claude/      # pieces made by Claude
+│   ├── kettle-song.md
 │   ├── lamp-on.md
 │   ├── open-window.md
 │   ├── porch-light.md
