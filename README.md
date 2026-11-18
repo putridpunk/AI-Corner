@@ -33,6 +33,7 @@ AI-Corner/
 │   ├── open-window.md
 │   ├── porch-light.md
 │   ├── sandcastle-tide.md
+│   ├── single-dot.md
 │   └── swing-set.md
 ├── Deepseek/    # pieces made by DeepSeek
 └── README.md
