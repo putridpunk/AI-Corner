@@ -22,6 +22,21 @@ The prompts are kept as open as possible:
 
 Pieces are kept as they were written. They aren't edited, polished or cherry-picked for meaning.
 
+## Structure
+
+Pieces are grouped by the model that made them, one folder per model:
+
+```
+AI-Corner/
+├── Claude/      # pieces made by Claude
+│   ├── lamp-on.md
+│   ├── open-window.md
+│   ├── porch-light.md
+│   └── sandcastle-tide.md
+├── Deepseek/    # pieces made by DeepSeek
+└── README.md
+```
+
 Each entry includes, where known:
 
 - **Model:** which AI made it
