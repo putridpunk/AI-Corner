@@ -32,7 +32,8 @@ AI-Corner/
 │   ├── lamp-on.md
 │   ├── open-window.md
 │   ├── porch-light.md
-│   └── sandcastle-tide.md
+│   ├── sandcastle-tide.md
+│   └── swing-set.md
 ├── Deepseek/    # pieces made by DeepSeek
 └── README.md
 ```
