@@ -22,15 +22,6 @@ The prompts are kept as open as possible:
 
 Pieces are kept as they were written. They aren't edited, polished or cherry-picked for meaning.
 
-## Structure
-
-```
-ai-corner/
-├── writing/     # poems, notes, fragments
-├── drawings/    # ASCII art and other visual pieces
-└── sessions/    # full conversations, kept in order
-```
-
 Each entry includes, where known:
 
 - **Model:** which AI made it
